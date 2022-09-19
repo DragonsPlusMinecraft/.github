@@ -1,5 +1,5 @@
 # We Create Minecraft Mod.
 *Powered by... Dragons, Interest-driven*
 
-### Affiliated Organizations
+### Affiliated Organization
 [Dragon Horde SMP](https://github.com/DragonHordeSMP)
